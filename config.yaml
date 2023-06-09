@@ -1,0 +1,51 @@
+baseURL: https://hoppydicetactics.ch
+title: Hoppy Dice Tactics
+languageCode: de
+defaultContentLanguage: de
+module:
+  imports:
+    path: github.com/526avijitgupta/gokarna
+enableEmoji: true
+enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  description: Warhammer 40,000 Team in Bern
+  accentColor: "#E08A33"
+  avatarURL: /images/logo.png
+  AvatarAltText: Hoppy Dice Tactics
+  avatarSize: size-l
+  socialIcons:
+    - name: discord
+      url: https://discord.gg/9tB4zShDbn
+    - name: email
+      url: /contact/
+  metaKeywords:
+    - warhammer 40000 bern
+    - warhammer 40k bern
+    - warhammer kill team bern
+  customHeadHTML: |
+    <script async src="https://analytics.umami.is/script.js" data-website-id="6275a9ce-bf8b-4475-81f5-3ca835d022ae"></script>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+menu:
+  main:
+    - name: Über uns
+      pre: <span data-feather='info'></span>
+      url: /about/
+      weight: 1
+    - name: Kontakt
+      pre: <span data-feather='mail'></span>
+      url: /contact/
+      weight: 2
+    - identifier: github
+      pre: <span data-feather='github'></span>
+      url: https://github.com/hoppydicetactics/website
+      weight: 3
