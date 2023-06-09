@@ -8,11 +8,6 @@ module:
 enableEmoji: true
 enableRobotsTXT: true
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
-
 params:
   description: Warhammer 40,000 Team in Bern
   accentColor: "#E08A33"
@@ -45,7 +40,19 @@ menu:
       pre: <span data-feather='mail'></span>
       url: /contact/
       weight: 2
+    - name: Terrain Layouts
+      pre: <span data-feather='map'></span>
+      url: /terrain-layouts/
+      weight: 3
     - identifier: github
       pre: <span data-feather='github'></span>
       url: https://github.com/hoppydicetactics/website
-      weight: 3
+      weight: 4
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+    endLevel: 2
