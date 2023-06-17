@@ -36,14 +36,18 @@ menu:
       pre: <span data-feather='mail'></span>
       url: /contact/
       weight: 1
+    - name: Cheat Sheet
+      pre: <span data-feather='file-text'></span>
+      url: /cheat-sheet/
+      weight: 2
     - name: Terrain Layouts
       pre: <span data-feather='map'></span>
       url: /terrain-layouts/
-      weight: 2
+      weight: 3
     - identifier: github
       pre: <span data-feather='github'></span>
       url: https://github.com/hoppydicetactics/website
-      weight: 3
+      weight: 4
 
 markup:
   goldmark:
