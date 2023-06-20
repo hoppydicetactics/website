@@ -36,14 +36,18 @@ menu:
       pre: <span data-feather='mail'></span>
       url: /contact/
       weight: 1
+    - name: Erste Schritte
+      pre: <span data-feather='play'></span>
+      url: /getting-started/
+      weight: 2
     - name: Terrain Layouts
       pre: <span data-feather='map'></span>
       url: /terrain-layouts/
-      weight: 2
+      weight: 3
     - identifier: github
       pre: <span data-feather='github'></span>
       url: https://github.com/hoppydicetactics/website
-      weight: 3
+      weight: 4
 
 markup:
   goldmark:
