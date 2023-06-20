@@ -1,6 +1,7 @@
 ---
 title: Terrain Layouts
-type: page
+type: post
+date: 2023-06-09
 showTableOfContents: true
 ---
 Warhammer 40,000 Terrain Layouts von Turnieren der 9. Edition. Sobald Layouts der 10. Edition bekannt sind, wird diese Seite aktualisiert.
