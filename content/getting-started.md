@@ -60,7 +60,10 @@ Beim Punktemaximum deiner Liste orientierst du dich dabei an einer der "übliche
 
 Da der Schritt, mit Modellen von 1000 auf 2000 Punkte zu kommen, ein grosser sein kann, wird nicht selten auch mit einer Punktebeschränkung dazwischen gespielt, üblicherweise in 250 Punkte-Inkrementen (1250, 1500, 1750).
 
-Bevor du nun Calc oder Excel öffnest und die Punkte für deine Modelle zusammenträgst: Es gibt bereits gute Apps, die sich auf das Schreiben solcher Listen spezialisiert haben. Leider sind genau diese Apps aktuell noch nicht für die neue 10. Edition von Warhammer 40,000 bereit. Sobald diese verfügbar sind, wird dieser Post hier aktualisiert. Bis es aber soweit ist, kannst du dich [als Vorlage an das Army Roster](https://www.warhammer-community.com/warhammer-40000-downloads/#miscellaneous-1) halten.
+Bevor du nun Calc oder Excel öffnest und die Punkte für deine Modelle zusammenträgst: Es gibt bereits gute Apps, die sich auf das Schreiben solcher Listen spezialisiert haben. Leider sind die meisten dieser Apps aktuell noch nicht für die neue 10. Edition von Warhammer 40,000 bereit. Die neue, offizielle App von Games Workshop ist aber seit dem 21. Juni erhältlich:
+
+* [Android](https://play.google.com/store/apps/details?id=com.gamesworkshop.w40k)
+* [iOS](https://apps.apple.com/app/warhammer-40-000-the-app/id6443503982)
 
 [^1]: Boarding Actions-Spiele sind nebst Combat Patrol-Spielen eine weitere Variante, wie du kleine (und damit auch schnellere) Partien spielen kannst. Sie eignen sich im Vergleich zu Combat Patrol-Spielen aber weniger gut zum Einstieg in Warhammer 40,000. Reizt dich aber der Aspekt ohnehin weniger, viele und teilweise auch grössere Modelle zu sammeln, könnte Boarding Actions oder auch Kill Team interessanter sein für dich.
 
