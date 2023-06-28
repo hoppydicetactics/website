@@ -25,3 +25,7 @@ type: page
     <button name="submit" type="submit"><span data-feather='send'></span> Abschicken</button>
   </div>
 </form>
+
+<div>
+  <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+</div>
