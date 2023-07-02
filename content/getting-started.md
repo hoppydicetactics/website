@@ -26,7 +26,12 @@ Mit der 10. Edition hat Games Workshop das Konzept von "Combat Patrols" eingefü
 
 ![Combat Patrox Box der Orks](/images/getting-started/combat-patrol-orks.png)
 
-Du kannst die Figuren aus einer Combat Patrol-Box direkt für ein Spiel gegen eine andere solche Combat Patrol verwenden, zusammen [mit etwas vereinfachten Regeln](https://www.warhammer-community.com/warhammer-40000-downloads/#combat-patrol-datasheets-24), die dir den Einstieg ins Spiel erleichtern.
+Du kannst die Figuren aus einer Combat Patrol-Box direkt für ein Spiel gegen eine andere solche Combat Patrol verwenden, zusammen mit etwas vereinfachten Regeln, die dir den Einstieg ins Spiel erleichtern.
+
+Um ein Combat Patrol-Spiel spielen zu können, [brauchst diese Dokumente](https://www.warhammer-community.com/warhammer-40000-downloads/#combat-patrol-datasheets):
+
+- _Combat Patrols:_ Die allgemeinen Combat Patrols-Regeln
+- _Combat Patrol: \[Fraktion\]:_ Die Regeln für deine gewählte Fraktion
 
 Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
@@ -35,7 +40,7 @@ Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
 Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt hast, kannst du einen ersten Blick in den Index deiner Fraktion werfen (oder natürlich auch schon vorher).
 
-Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata-29) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion.
+Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion.
 
 ![Necron Warriors Datasheet](/images/getting-started/necron-warriors-datasheet.png)
 
@@ -48,7 +53,7 @@ Auch hier gilt die "rule of cool": Kaufe diejenigen Modelle, die dir am besten g
 
 Das Wort "Liste" fiel bereits weiter oben im Text, sagt dir aber unter Umständen noch nichts.
 
-Eine Liste schreibst du in aller Regel selbst. Sie beschreibt, welche Modelle du in einem Spiel einsetzt. Bei einem Spiel einigst du dich jeweils mit deiner Mitspieler\*in auf eine Anzahl Punkte. Für diese Menge an Punkten darfst du nun Modelle aufstellen. Die Punktkosten für Modelle bzw. Einheiten findest du dabei im sog. ["Munitorum Field Manual", welches ebenfalls kostenlos von Games Workshop zur Verfügung gestellt wird](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads-4).
+Eine Liste schreibst du in aller Regel selbst. Sie beschreibt, welche Modelle du in einem Spiel einsetzt. Bei einem Spiel einigst du dich jeweils mit deiner Mitspieler\*in auf eine Anzahl Punkte. Für diese Menge an Punkten darfst du nun Modelle aufstellen. Die Punktkosten für Modelle bzw. Einheiten findest du dabei im sog. ["Munitorum Field Manual", welches ebenfalls kostenlos von Games Workshop zur Verfügung gestellt wird](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads).
 
 Die Figuren einer Combat Patrol-Box stellen bereits eine Liste dar, weshalb du in diesem Spielmodus noch gar keine schreiben musst. Sobald du aber deine Sammlung auszubauen beginnst, brauchst du eine für deine Modelle massgeschneiderte Liste.
 
@@ -62,8 +67,8 @@ Da der Schritt, mit Modellen von 1000 auf 2000 Punkte zu kommen, ein grosser sei
 
 Bevor du nun Calc oder Excel öffnest und die Punkte für deine Modelle zusammenträgst: Es gibt bereits gute Apps, die sich auf das Schreiben solcher Listen spezialisiert haben. Leider sind die meisten dieser Apps aktuell noch nicht für die neue 10. Edition von Warhammer 40,000 bereit. Die neue, offizielle App von Games Workshop ist aber seit dem 21. Juni erhältlich:
 
-* [Android](https://play.google.com/store/apps/details?id=com.gamesworkshop.w40k)
-* [iOS](https://apps.apple.com/app/warhammer-40-000-the-app/id6443503982)
+- [Android](https://play.google.com/store/apps/details?id=com.gamesworkshop.w40k)
+- [iOS](https://apps.apple.com/app/warhammer-40-000-the-app/id6443503982)
 
 [^1]: Boarding Actions-Spiele sind nebst Combat Patrol-Spielen eine weitere Variante, wie du kleine (und damit auch schnellere) Partien spielen kannst. Sie eignen sich im Vergleich zu Combat Patrol-Spielen aber weniger gut zum Einstieg in Warhammer 40,000. Reizt dich aber der Aspekt ohnehin weniger, viele und teilweise auch grössere Modelle zu sammeln, könnte Boarding Actions oder auch Kill Team interessanter sein für dich.
 
@@ -74,12 +79,12 @@ Warhammer 40,000 bietet eine enorme Tiefe, was einer der Gründe ist, weshalb es
 
 Es besitzt aber auch ein entsprechend komplexes Regelwerk. Gerade zu Beginn können bereits erfahrene Spieler\*innen dir natürlich enorm dabei helfen, diese Regeln kennenzulernen und zu verstehen. So kommst du schnell ins Spiel und lernst die wichtigsten Mechaniken.
 
-Möchtest du die Regeln selbst anschauen, [auch diese sind kostenlos verfügbar](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads-4).
+Möchtest du die Regeln selbst anschauen, [auch diese sind kostenlos verfügbar](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads).
 Wichtig dabei sind die folgenden Dokumente:
 
-- Core Rules: Die Grundregeln
-- Rules Commentary: Erläuterungen und Kommentare zu den Grundregeln
-- Quick Start Guide: Ein Cheat Sheet bzw. Zusammenfassung
+- _Core Rules:_ Die Grundregeln
+- _Rules Commentary:_ Erläuterungen und Kommentare zu den Grundregeln
+- _Quick Start Guide:_ Ein Cheat Sheet bzw. Zusammenfassung
 
 Falls für dich kein Problem, empfehlen wir, die Regeln jeweils in Englisch anzuschauen. Das hat den grossen Vorteil, dass du bei Regelfragen mit den englischen Begriffen das ganze Internet dazu fragen kannst.
 
