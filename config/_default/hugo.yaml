@@ -32,6 +32,8 @@ params:
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
         <link rel="stylesheet" type="text/css" href="/css/hoppy.css">
+  customFooterHTML: |
+    <span><a href="/privacy-policy/">Datenschutzerklärung</a></span>
 
 menu:
   main:
