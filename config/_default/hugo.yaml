@@ -11,7 +11,7 @@ enableRobotsTXT: true
 params:
   description: Warhammer 40,000 Team in Bern
   accentColor: "#E08A33"
-  avatarURL: /images/logo.png
+  avatarURL: images/logo.webp
   AvatarAltText: Hoppy Dice Tactics
   avatarSize: size-l
   socialIcons:
