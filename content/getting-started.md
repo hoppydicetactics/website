@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2023-07-02
+lastmod: 2023-09-09
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -39,9 +39,9 @@ Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
 ## Index und Ausbau
 
-Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt hast, kannst du einen ersten Blick in den Index deiner Fraktion werfen (oder natürlich auch schon vorher).
+Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt hast, kannst du einen ersten Blick in den Index – oder, falls dieser bereits veröffentlich wurde, Codex – deiner Fraktion werfen.
 
-Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion.
+Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion. Ein Index für eine Fraktion ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde.
 
 {{< figure src="/images/getting-started/necron-warriors-datasheet.webp" alt="Necron Warriors Datasheet" caption="Credit: Games Workshop" >}}
 
@@ -92,17 +92,25 @@ Falls für dich kein Problem, empfehlen wir, die Regeln jeweils in Englisch anzu
 
 ## Codexes
 
-Bis hierhin konntest du alle Regeln, Punktwerte und sonstige Informationen digital und kostenlos herunterladen (was ein ziemlich drastischer Wandel von Games Workshop darstellt und sehr begrüssenswert ist). Was hingegen nicht kostenlos erhältlich sein wird, sind die Codexes.
+Sehr ähnlich wie der Index ist ein Codex das Regelbuch für eine bestimmte Fraktion, jeweils frisch publiziert für jede Edition. Im Unterschied zu den Indexes enthalten Codexes einige Dinge mehr, u.a. sämtliche sog. "Detachments". Der Index enthält genau ein Detachment, d.h. ein "Flavor" oder Subfraktion deiner Fraktion. Der Codex enthält alle verfügbaren Detachments der Fraktion und erlaubt dir so, dasjenige Detachment zu spielen, welches du spieltechnisch bevorzugst und am besten zu dir passt.
 
-Sehr ähnlich wie der Index sind Codexes die Regelbücher für die verschiedenen Fraktionen, jeweils frisch publiziert für jede Edition. Im Unterschied zu den Indexes enthalten Codexes allerdings noch einige Dinge mehr, u.a. sämtliche sog. "Detachments". Der Index enthält genau ein Detachment, d.h. ein "Flavor" oder Subfraktion deiner Fraktion. Der Codex enthält alle verfügbaren Detachments der Fraktion und erlauben dir so, dasjenige Detachment zu spielen, welches du spieltechnisch bevorzugst und am besten zu dir passt.
+Auch enthalten die Codexes Hintergrundgeschichten und Informationen zu deiner Fraktion.
 
-Auch enthalten die Codexes Hintergrundgeschichten und Informationen zu deiner Fraktion, die du so natürlich nicht im Index findest.
-
-Ob du den Codex für deine Fraktion kaufen möchtest, hängt natürlich davon ab, ob du an den restlichen Detachments und Hintergrundgeschichten interessiert bist. Falls ja wirst du aber so oder so noch einen Moment warten müssen, bis der Codex für deine Fraktion für die 10. Edition veröffentlicht wird. Ende April 2023 [informierte Games Workshop u.a. darüber, wann die ersten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/04/29/warhammer-40000-leviathan-whats-in-the-box/):
+Ende April 2023 [informierte Games Workshop u.a. darüber, wann die ersten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/04/29/warhammer-40000-leviathan-whats-in-the-box/):
 
 {{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
 
+Die bisher veröffentlichten Codexes:
 
-## Abschluss
+- [Codex Tyranids](https://www.games-workshop.com/en-EU/codex-tyranids-2023-eng) (09.09.2023)
 
-Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden. Melde dich bei uns, wenn du weitere Fragen hast!
+
+## Weitere Quellen
+
+Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu informieren. Bspw. hat Games Workshop Artikel veröffentlicht, die dir einen weiteren Einblick in die verschiedenen Fraktionen geben können:
+
+- [Starting a Tyranids Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (08.09.2023)](https://www.warhammer-community.com/2023/09/08/starting-a-tyranids-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+
+Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
+
+Melde dich bei uns, wenn du weitere Fragen hast!
