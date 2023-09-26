@@ -20,12 +20,11 @@ params:
     - name: email
       url: /contact/
   metaKeywords:
-    - bern
-    - warhammer
-    - 40000
-    - 40k
-    - kill team
-    - competitive
+    - Hoppy Dice Tactics
+    - Warhammer 40000
+    - Warhammer 40k
+    - Bern
+    - Competitive
   customHeadHTML: |
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
