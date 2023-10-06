@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2023-09-09
+lastmod: 2023-10-06
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -102,7 +102,8 @@ Ende April 2023 [informierte Games Workshop u.a. darüber, wann die ersten Codex
 
 Die bisher veröffentlichten Codexes:
 
-- [Codex Tyranids](https://www.games-workshop.com/en-EU/codex-tyranids-2023-eng) (09.09.2023)
+- [Codex Tyranids](https://www.games-workshop.com/en-WW/codex-tyranids-2023-eng) (09.09.2023)
+- [Codex Space Marines](https://www.games-workshop.com/en-WW/codex-space-marines-hb-2023-eng) (07.10.2023)
 
 
 ## Weitere Quellen
