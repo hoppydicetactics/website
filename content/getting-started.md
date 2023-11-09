@@ -103,7 +103,7 @@ Ende April 2023 [informierte Games Workshop u.a. darüber, wann die ersten Codex
 Die bisher veröffentlichten Codexes:
 
 - [Codex Tyranids](https://www.games-workshop.com/en-WW/codex-tyranids-2023-eng) (09.09.2023)
-- [Codex Space Marines](https://www.games-workshop.com/en-WW/codex-space-marines-hb-2023-eng) (07.10.2023)
+- [Codex Space Marines](https://www.games-workshop.com/en-WW/codex-space-marines-hb-2023-eng) (14.10.2023)
 
 
 ## Weitere Quellen
