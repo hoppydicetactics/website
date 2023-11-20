@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2023-10-06
+lastmod: 2023-11-20
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -41,7 +41,7 @@ Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
 Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt hast, kannst du einen ersten Blick in den Index – oder, falls dieser bereits veröffentlich wurde, Codex – deiner Fraktion werfen.
 
-Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion. Ein Index für eine Fraktion ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde.
+Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion. Ein Index ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde. Der Codex ist allerdings nicht mehr gratis.
 
 {{< figure src="/images/getting-started/necron-warriors-datasheet.webp" alt="Necron Warriors Datasheet" caption="Credit: Games Workshop" >}}
 
@@ -66,7 +66,11 @@ Beim Punktemaximum deiner Liste orientierst du dich dabei an einer der "übliche
 
 Da der Schritt, mit Modellen von 1000 auf 2000 Punkte zu kommen, ein grosser sein kann, wird nicht selten auch mit einer Punktebeschränkung dazwischen gespielt, üblicherweise in 250 Punkte-Inkrementen (1250, 1500, 1750).
 
-Bevor du nun Calc oder Excel öffnest und die Punkte für deine Modelle zusammenträgst: Es gibt bereits gute Apps, die sich auf das Schreiben solcher Listen spezialisiert haben. Leider sind die meisten dieser Apps aktuell noch nicht für die neue 10. Edition von Warhammer 40,000 bereit. Die neue, offizielle App von Games Workshop ist aber seit dem 21. Juni erhältlich:
+Bevor du nun Calc oder Excel öffnest und die Punkte für deine Modelle zusammenträgst: Es gibt bereits gute Apps, die sich auf das Schreiben solcher Listen spezialisiert haben. Wir empfehlen:
+
+- [New Recruit](https://www.newrecruit.eu/)
+
+Auch gibt es die offizielle App von Games Workshop. Sie bietet dir schnellen Zugriff auf die Core Rules, Combat Patrols und Indexes. Ohne [Warhammer+ Subscription](https://warhammerplus.com/) ist aber das Erstellen von mehr als einer Liste nicht möglich. Auch der Zugriff auf die Codex-Regeln und -Datasheets sind nur mit einem Code, der im Codex abgedruckt und in der App eingetragen werden kann, zugänglich. Nichts desto trotz kann die App als ein gutes Nachschlagewerk während eines Spiels dienen:
 
 - [Android](https://play.google.com/store/apps/details?id=com.gamesworkshop.w40k)
 - [iOS](https://apps.apple.com/app/warhammer-40-000-the-app/id6443503982)
@@ -92,18 +96,17 @@ Falls für dich kein Problem, empfehlen wir, die Regeln jeweils in Englisch anzu
 
 ## Codexes
 
-Sehr ähnlich wie der Index ist ein Codex das Regelbuch für eine bestimmte Fraktion, jeweils frisch publiziert für jede Edition. Im Unterschied zu den Indexes enthalten Codexes einige Dinge mehr, u.a. sämtliche sog. "Detachments". Der Index enthält genau ein Detachment, d.h. ein "Flavor" oder Subfraktion deiner Fraktion. Der Codex enthält alle verfügbaren Detachments der Fraktion und erlaubt dir so, dasjenige Detachment zu spielen, welches du spieltechnisch bevorzugst und am besten zu dir passt.
-
-Auch enthalten die Codexes Hintergrundgeschichten und Informationen zu deiner Fraktion.
-
-Ende April 2023 [informierte Games Workshop u.a. darüber, wann die ersten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/04/29/warhammer-40000-leviathan-whats-in-the-box/):
-
-{{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
+Sehr ähnlich wie der Index ist ein Codex das komplette Regelbuch für eine bestimmte Fraktion, jeweils frisch publiziert für jede Edition. Während der Index ein "Detachment" enthält (also ein "Flavor" oder Subfraktion deiner Fraktion), enthält der Codex alle verfügbaren Detachments (in der Regel 5 oder mehr) und erlaubt dir so, dasjenige Detachment zu spielen, welches am besten zu dir passt. Auch enthalten die Codexes Hintergrundgeschichten und Informationen zu deiner Fraktion.
 
 Die bisher veröffentlichten Codexes:
 
 - [Codex Tyranids](https://www.games-workshop.com/en-WW/codex-tyranids-2023-eng) (09.09.2023)
 - [Codex Space Marines](https://www.games-workshop.com/en-WW/codex-space-marines-hb-2023-eng) (14.10.2023)
+
+Am 18. November [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
+
+{{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
+
 
 
 ## Weitere Quellen
