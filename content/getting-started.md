@@ -118,6 +118,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Tyranids Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (08.09.2023)](https://www.warhammer-community.com/2023/09/08/starting-a-tyranids-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Space Marine Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (03.10.2023)](https://www.warhammer-community.com/2023/10/03/starting-a-space-marine-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adeptus Mechanicus Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (06.12.2023)](https://www.warhammer-community.com/2023/12/06/starting-an-adeptus-mechanicus-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Necron Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (08.12.2023)](https://www.warhammer-community.com/2023/12/08/starting-a-necron-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
