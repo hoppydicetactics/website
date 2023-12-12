@@ -10,6 +10,7 @@ enableRobotsTXT: true
 
 params:
   description: Warhammer 40,000 Team in Bern
+  dateFormat: "2. January 2006"
   accentColor: "#E08A33"
   avatarURL: images/logo.webp
   AvatarAltText: Hoppy Dice Tactics
