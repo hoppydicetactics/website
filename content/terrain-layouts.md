@@ -2,19 +2,21 @@
 title: Terrain Layouts
 type: post
 date: 2023-06-09
-lastmod: 2023-07-27
+lastmod: 2023-12-12
 showTableOfContents: true
 ---
-Games Workshop hat für die 10. Edition den [Leviathan Tournament Companion](https://www.warhammer-community.com/warhammer-40000-downloads/#miscellaneous) veröffentlicht, welcher Empfehlungen für Terrain Layouts enthält.
 
-Diese Seite sammelt Beispiele, wie die umgesetzten Empfehlungen aussehen können, sowie Alternativen.
+Bekannte Turnier-Terrain Layouts für die 10. Edition.
 
 
-## Beispiele
+## Games Workshop
 
-### Terrain Layout 1
+Der [Leviathan Tournament Companion](https://www.warhammer-community.com/warhammer-40000-downloads/#miscellaneous) wurde von Games Workshop veröffentlicht und enthält Empfehlungen für Terrain Layouts.
 
-{{< figure src="/images/terrain-layouts/gw-tl1-1.jpg" alt="Beispiel für Terrain Layout 1 von Goonhammer" caption="Credit: Goonhammer" >}}
+
+## U.K. Tournament Circuit
+
+Die UKTC verwendet das eigene [Terrain & Mission Pack](https://docs.google.com/document/d/1WV085gGnMPOF-zprcri-9HDW5BWBE34HGc9ndIGRJHM/edit).
 
 
 ## Goonhammer Open 2023
