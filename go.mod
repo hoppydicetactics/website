@@ -2,4 +2,4 @@ module github.com/hoppydicetactics/website
 
 go 1.19
 
-require github.com/526avijitgupta/gokarna v0.0.0-20240214003442-cdc638496bdc // indirect
+require github.com/526avijitgupta/gokarna v0.0.0-20240317031443-6294c90a4c15 // indirect
