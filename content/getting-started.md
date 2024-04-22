@@ -100,11 +100,13 @@ Sehr ähnlich wie der Index ist ein Codex das komplette Regelbuch für eine best
 
 Die bisher veröffentlichten Codexes:
 
-- [Codex Tyranids](https://www.warhammer.com/en-WW/shop/codex-tyranids-2023-eng) (9.9.2023)
-- [Codex Space Marines](https://www.warhammer.com/en-WW/shop/codex-space-marines-hb-2023-eng) (7.10.2023)
-- [Codex Adeptus Mechanicus](https://www.warhammer.com/en-WW/shop/codex-adeptus-mechanicus-hb-eng-2023) (9.12.2023)
-- [Codex Necrons](https://www.warhammer.com/en-WW/shop/codex-necrons-hb-eng-2023) (9.12.2023)
-- [Codex Supplement: Dark Angels](https://www.warhammer.com/en-WW/shop/codex-supplement-dark-angels-eng-2024) (2.3.2024)
+- [Codex Tyranids](https://www.warhammer.com/en-WW/shop/codex-tyranids-2023-eng) (16.9.2023)
+- [Codex Space Marines](https://www.warhammer.com/en-WW/shop/codex-space-marines-hb-2023-eng) (14.10.2023)
+- [Codex Adeptus Mechanicus](https://www.warhammer.com/en-WW/shop/codex-adeptus-mechanicus-hb-eng-2023) (16.12.2023)
+- [Codex Necrons](https://www.warhammer.com/en-WW/shop/codex-necrons-hb-eng-2023) (16.12.2023)
+- [Codex Supplement: Dark Angels](https://www.warhammer.com/en-WW/shop/codex-supplement-dark-angels-eng-2024) (9.3.2024)
+- [Codex Orks](https://www.warhammer.com/shop/codex-orks-hb-english-2024) (27.04.2024)
+- [Codex Adeptus Custodes](https://www.warhammer.com/shop/codex-adeptus-custodes-eng-2024) (27.04.2024)
 
 Am 18. November [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
 
