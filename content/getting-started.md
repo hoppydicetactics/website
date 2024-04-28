@@ -107,11 +107,11 @@ Die bisher veröffentlichten Codexes:
 - [Codex Supplement: Dark Angels](https://www.warhammer.com/en-WW/shop/codex-supplement-dark-angels-eng-2024) (9.3.2024)
 - [Codex Orks](https://www.warhammer.com/shop/codex-orks-hb-english-2024) (27.04.2024)
 - [Codex Adeptus Custodes](https://www.warhammer.com/shop/codex-adeptus-custodes-eng-2024) (27.04.2024)
+- [Codex T'au Empire](https://www.warhammer.com/en-WW/shop/codex-tau-empire-2024-eng) (11.05.2024)
 
-Am 18. November [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
+Am 18. November 2023 [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
 
 {{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
-
 
 
 ## Weitere Quellen
@@ -124,6 +124,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Necron Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (8.12.2023)](https://www.warhammer-community.com/2023/12/08/starting-a-necron-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Dark Angels Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (27.2.2024)](https://www.warhammer-community.com/2024/02/27/starting-a-dark-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Ork Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (24.04.2024)](https://www.warhammer-community.com/2024/04/24/starting-an-ork-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Adeptus Custodes Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (26.04.2024)](https://www.warhammer-community.com/2024/04/26/starting-an-adeptus-custodes-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
