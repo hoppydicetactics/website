@@ -16,16 +16,15 @@ params:
   AvatarAltText: Hoppy Dice Tactics
   avatarSize: size-l
   socialIcons:
-    - name: discord
-      url: https://discord.gg/Z8qSE5QNu6
     - name: email
       url: /contact/
+    - name: discord
+      url: https://discord.gg/Z8qSE5QNu6
   metaKeywords:
     - Hoppy Dice Tactics
     - Warhammer 40000
     - Warhammer 40k
     - Bern
-    - Competitive
   customHeadHTML: |
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -37,11 +36,11 @@ params:
 
 menu:
   main:
-    - name: Kontakt
-      pre: <span data-feather='mail'></span>
-      url: /contact/
+    - name: Home
+      pre: <span data-feather='home'></span>
+      url: /
       weight: 1
-    - name: Erste Schritte
+    - name: Starten mit Warhammer 40.000
       pre: <span data-feather='play'></span>
       url: /getting-started/
       weight: 2
@@ -49,10 +48,22 @@ menu:
       pre: <span data-feather='map'></span>
       url: /terrain-layouts/
       weight: 3
+    - identifier: contact
+      pre: <img class='svg-inject' src='/svg/icons/email.svg' />
+      url: /contact/
+      weight: 11
+    - identifier: discord
+      pre: <img class='svg-inject' src='/svg/icons/discord.svg' />
+      url: https://discord.gg/Z8qSE5QNu6
+      weight: 12
+      params:
+        newPage: true
     - identifier: github
-      pre: <span data-feather='github'></span>
+      pre: <img class='svg-inject' src='/svg/icons/github.svg' />
       url: https://github.com/hoppydicetactics/website
-      weight: 4
+      weight: 13
+      params:
+        newPage: true
 
 markup:
   goldmark:
