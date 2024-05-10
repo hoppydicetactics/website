@@ -1,0 +1,25 @@
+main:
+  - name: About us
+    pre: <span data-feather='users'></span>
+    url: /en/about/
+    weight: 1
+  - name: Terrain Layouts
+    pre: <span data-feather='map'></span>
+    url: /en/terrain-layouts/
+    weight: 3
+  - identifier: contact
+    pre: <img class='svg-inject' src='/svg/icons/email.svg' />
+    url: /en/contact/
+    weight: 11
+  - identifier: discord
+    pre: <img class='svg-inject' src='/svg/icons/discord.svg' />
+    url: https://discord.gg/Z8qSE5QNu6
+    weight: 12
+    params:
+      newPage: true
+  - identifier: github
+    pre: <img class='svg-inject' src='/svg/icons/github.svg' />
+    url: https://github.com/hoppydicetactics/website
+    weight: 13
+    params:
+      newPage: true

@@ -1,23 +1,46 @@
 baseURL: https://hoppydicetactics.ch
 title: Hoppy Dice Tactics
-languageCode: de
-defaultContentLanguage: de
 module:
   imports:
     path: github.com/526avijitgupta/gokarna
 enableEmoji: true
 enableRobotsTXT: true
 
+defaultContentLanguage: de
+defaultContentLanguageInSubdir: true
+languages:
+  de:
+    contentDir: content/de
+    dateFormat: "2. January 2006"
+    disabled: false
+    languageCode: de
+    languageDirection: ltr
+    languageName: DE
+    params:
+      customFooterHTML: |
+        <span><a href="/de/privacy-policy/">Datenschutzerklärung</a></span>
+    weight: 1
+  en:
+    contentDir: content/en
+    dateFormat: "2 January, 2006"
+    disabled: false
+    languageCode: en
+    languageDirection: ltr
+    languageName: EN
+    params:
+      customFooterHTML: |
+        <span><a href="/en/privacy-policy/">Privacy Policy</a></span>
+    weight: 2
+
 params:
   description: Warhammer 40,000 Team in Bern
-  dateFormat: "2. January 2006"
   accentColor: "#E08A33"
   avatarURL: /images/logo.webp
   AvatarAltText: Hoppy Dice Tactics
   avatarSize: size-l
   socialIcons:
     - name: email
-      url: /contact/
+      url: contact/
     - name: discord
       url: https://discord.gg/Z8qSE5QNu6
   metaKeywords:
@@ -25,45 +48,13 @@ params:
     - Warhammer 40000
     - Warhammer 40k
     - Bern
+    - Breitenrain
   customHeadHTML: |
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
         <link rel="stylesheet" type="text/css" href="/css/hoppy.css">
-  customFooterHTML: |
-    <span><a href="/privacy-policy/">Datenschutzerklärung</a></span>
-
-menu:
-  main:
-    - name: Home
-      pre: <span data-feather='home'></span>
-      url: /
-      weight: 1
-    - name: Starten mit Warhammer 40.000
-      pre: <span data-feather='play'></span>
-      url: /getting-started/
-      weight: 2
-    - name: Terrain Layouts
-      pre: <span data-feather='map'></span>
-      url: /terrain-layouts/
-      weight: 3
-    - identifier: contact
-      pre: <img class='svg-inject' src='/svg/icons/email.svg' />
-      url: /contact/
-      weight: 11
-    - identifier: discord
-      pre: <img class='svg-inject' src='/svg/icons/discord.svg' />
-      url: https://discord.gg/Z8qSE5QNu6
-      weight: 12
-      params:
-        newPage: true
-    - identifier: github
-      pre: <img class='svg-inject' src='/svg/icons/github.svg' />
-      url: https://github.com/hoppydicetactics/website
-      weight: 13
-      params:
-        newPage: true
 
 markup:
   goldmark:
