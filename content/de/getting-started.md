@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2024-04-28
+lastmod: 2024-05-10
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -125,6 +125,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Dark Angels Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (27.2.2024)](https://www.warhammer-community.com/2024/02/27/starting-a-dark-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Ork Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (24.04.2024)](https://www.warhammer-community.com/2024/04/24/starting-an-ork-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adeptus Custodes Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (26.04.2024)](https://www.warhammer-community.com/2024/04/26/starting-an-adeptus-custodes-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a T’au Empire Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (08.05.2024)](https://www.warhammer-community.com/2024/05/08/starting-a-tau-empire-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
