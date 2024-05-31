@@ -108,6 +108,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex Orks](https://www.warhammer.com/shop/codex-orks-hb-english-2024) (27.04.2024)
 - [Codex Adeptus Custodes](https://www.warhammer.com/shop/codex-adeptus-custodes-eng-2024) (27.04.2024)
 - [Codex T'au Empire](https://www.warhammer.com/en-WW/shop/codex-tau-empire-2024-eng) (11.05.2024)
+- [Codex Chaos Space Marines](https://www.warhammer.com/en-WW/shop/codex-chaos-space-marines-2024-eng) (25.05.2024)
 
 Am 18. November 2023 [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
 
@@ -126,6 +127,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting an Ork Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (24.04.2024)](https://www.warhammer-community.com/2024/04/24/starting-an-ork-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adeptus Custodes Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (26.04.2024)](https://www.warhammer-community.com/2024/04/26/starting-an-adeptus-custodes-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a T’au Empire Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (08.05.2024)](https://www.warhammer-community.com/2024/05/08/starting-a-tau-empire-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Chaos Space Marines Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (30.05.2024)](https://www.warhammer-community.com/2024/05/30/starting-a-chaos-space-marines-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
