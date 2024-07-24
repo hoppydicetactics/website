@@ -11,25 +11,23 @@ defaultContentLanguageInSubdir: true
 languages:
   de:
     contentDir: content/de
-    dateFormat: "2. January 2006"
-    disabled: false
     languageCode: de
     languageDirection: ltr
     languageName: DE
     params:
       customFooterHTML: |
         <span><a href="/de/privacy-policy/">Datenschutzerklärung</a></span>
+      dateFormat: "2. January 2006"
     weight: 1
   en:
     contentDir: content/en
-    dateFormat: "2 January, 2006"
-    disabled: false
     languageCode: en
     languageDirection: ltr
     languageName: EN
     params:
       customFooterHTML: |
         <span><a href="/en/privacy-policy/">Privacy Policy</a></span>
+      dateFormat: "2 January, 2006"
     weight: 2
 
 params:
