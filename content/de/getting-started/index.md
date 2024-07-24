@@ -11,7 +11,7 @@ Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Lei
 
 Es gibt eine Unmenge an Fraktionen in Warhammer 40,000. Überlege dir als erstes, welche Fraktion du spielen möchtest.
 
-{{< figure src="/images/getting-started/factions.webp" alt="Fraktionen" caption="Credit: Games Workshop" >}}
+{{< figure src="/factions.webp" alt="Fraktionen" caption="Credit: Games Workshop" >}}
 
 Als Auswahlhilfe können wir dir vor allem empfehlen, diejenige Fraktion auszuwählen, die dir am besten gefällt. Einerseits betreffend Aussehen, andererseits vielleicht auch aufgrund der Hintergrundgeschichte ("Lore"). Auf YouTube finden sich dazu bspw. Bricky's unterhaltsame Erklärungen in zwei Teilen:
 
@@ -25,7 +25,7 @@ Keine Beachtung solltest du Aussagen schenken, ob eine Fraktion "gut" ist, also 
 
 Mit der 10. Edition hat Games Workshop das Konzept von "Combat Patrols" eingeführt. Eine Combat Patrol ist nicht nur eine Box, welche du kaufen kannst und einen guten Start an Miniaturen für deine auserwählte Fraktion darstellt. Es ist auch ein Spielmodus.
 
-{{< figure src="/images/getting-started/combat-patrol-orks.webp" alt="Combat Patrox Box der Orks" caption="Credit: Games Workshop" >}}
+{{< figure src="/combat-patrol-orks.webp" alt="Combat Patrox Box der Orks" caption="Credit: Games Workshop" >}}
 
 Du kannst die Figuren aus einer Combat Patrol-Box direkt für ein Spiel gegen eine andere solche Combat Patrol verwenden, zusammen mit etwas vereinfachten Regeln, die dir den Einstieg ins Spiel erleichtern.
 
@@ -43,7 +43,7 @@ Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt 
 
 Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion. Ein Index ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde. Der Codex ist allerdings nicht mehr gratis.
 
-{{< figure src="/images/getting-started/necron-warriors-datasheet.webp" alt="Necron Warriors Datasheet" caption="Credit: Games Workshop" >}}
+{{< figure src="/necron-warriors-datasheet.webp" alt="Necron Warriors Datasheet" caption="Credit: Games Workshop" >}}
 
 Die Datasheets geben dir einen guten Überblick darüber, welche Modelle nebst denjenigen der Combat Patrol-Box für deine Fraktion exisitieren und welche Fähigkeiten sowie Eigenschaften sie besitzen. So kannst du dir ein gutes Bild darüber verschaffen, mit welchen Modellen du deine bisherige Sammlung erweitern kannst.
 
@@ -114,7 +114,7 @@ Die bisher veröffentlichten Codexes:
 
 Am 18. November 2023 [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
 
-{{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
+{{< figure src="/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
 
 
 ## Weitere Quellen
