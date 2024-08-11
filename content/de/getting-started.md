@@ -111,6 +111,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Chaos Space Marines](https://www.warhammer.com/en-WW/shop/codex-chaos-space-marines-2024-eng) (25.05.2024)
 - [Codex: Genestealer Cults](https://www.warhammer.com/en-GB/shop/codex-genestealer-cults-2024-eng) (22.06.2024)
 - [Codex: Adepta Sororitas](https://www.warhammer.com/en-GB/shop/codex-adepta-sororitas-2024-eng) (22.06.2024)
+- [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.08.2024)
 
 Am 18. November 2023 [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
 
