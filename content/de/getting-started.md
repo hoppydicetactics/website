@@ -29,10 +29,10 @@ Mit der 10. Edition hat Games Workshop das Konzept von "Combat Patrols" eingefü
 
 Du kannst die Figuren aus einer Combat Patrol-Box direkt für ein Spiel gegen eine andere solche Combat Patrol verwenden, zusammen mit etwas vereinfachten Regeln, die dir den Einstieg ins Spiel erleichtern.
 
-Um ein Combat Patrol-Spiel spielen zu können, [brauchst diese Dokumente](https://www.warhammer-community.com/warhammer-40000-downloads/#combat-patrol-datasheets):
+Um ein Combat Patrol-Spiel spielen zu können, brauchst diese Dokumente aus dem [Warhammer Community Downloads-Bereich][1]:
 
-- _Combat Patrols:_ Die allgemeinen Combat Patrols-Regeln
-- _Combat Patrol: \[Fraktion\]:_ Die Regeln für deine gewählte Fraktion
+- _Combat Patrol Rules_: Die allgemeinen Combat Patrol-Regeln
+- _Combat Patrol: \[Fraktion\]:_ Die Regeln für deine Fraktion
 
 Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
@@ -41,20 +41,20 @@ Suchst du jemanden, um ein erstes Spiel zu spielen? Melde dich bei uns!
 
 Sobald du die Regeln der Combat Patrol und deiner Fraktion etwas kennen gelernt hast, kannst du einen ersten Blick in den Index – oder, falls dieser bereits veröffentlich wurde, Codex – deiner Fraktion werfen.
 
-Die [Indexes sind gratis als PDF erhältlich](https://www.warhammer-community.com/warhammer-40000-downloads/#indexes-faqs-and-errata) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets aller Modelle der entsprechenden Fraktion. Ein Index ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde. Der Codex ist allerdings nicht mehr gratis.
+Die Indexes sind gratis als PDF erhältlich (ebenfalls im [Warhammer Community Downloads-Bereich][1]) und enthalten nebst den allgemeinen Fähigkeiten auch die sog. Datasheets. Ein Index ist allerdings nur solange gültig, bis der [Codex](#codexes) veröffentlicht wurde. Die Codexes sind nicht mehr gratis, du kannst dir aber bspw. unter [40K.APP](https://www.40k.app/) oder [Wahapedia](https://wahapedia.ru/) trotzdem einen Überblick verschaffen.
 
 {{< figure src="/images/getting-started/necron-warriors-datasheet.webp" alt="Necron Warriors Datasheet" caption="Credit: Games Workshop" >}}
 
-Die Datasheets geben dir einen guten Überblick darüber, welche Modelle nebst denjenigen der Combat Patrol-Box für deine Fraktion exisitieren und welche Fähigkeiten sowie Eigenschaften sie besitzen. So kannst du dir ein gutes Bild darüber verschaffen, mit welchen Modellen du deine bisherige Sammlung erweitern kannst.
+Die Datasheets zeigen auf, welche Modelle nebst denjenigen der Combat Patrol-Box für deine Fraktion exisitieren sowie welche Fähigkeiten und Eigenschaften sie besitzen. So kannst du dir ein gutes Bild darüber machen, mit welchen Modellen du deine bisherige Sammlung erweitern möchtest.
 
-Auch hier gilt die "rule of cool": Kaufe diejenigen Modelle, die dir am besten gefallen. Optimalerweise erfüllt die gewählte Einheit gleichzeitig eine Rolle innerhalb deiner Liste, die du abdecken möchtest. Dafür benötigst du in der Regel jedoch schon etwas Erfahrung. Deshalb: Gefällt dir ein bestimmtes Modell besonders gut, ist das wichtigste Kriterium bereits erfüllt.
+Auch hier gilt die "rule of cool": Kaufe diejenigen Modelle, die dir am besten gefallen. Optimalerweise erfüllt die gewählte Einheit ausserdem eine Rolle innerhalb deiner Liste, die du abdecken möchtest. Dafür benötigst du in der Regel jedoch schon etwas Erfahrung. Deshalb: Gefällt dir ein bestimmtes Modell besonders gut, ist das wichtigste Kriterium bereits erfüllt.
 
 
 ## Liste
 
 Das Wort "Liste" fiel bereits weiter oben im Text, sagt dir aber unter Umständen noch nichts.
 
-Eine Liste schreibst du in aller Regel selbst. Sie beschreibt, welche Modelle du in einem Spiel einsetzt. Bei einem Spiel einigst du dich jeweils mit deiner Mitspieler\*in auf eine Anzahl Punkte. Für diese Menge an Punkten darfst du nun Modelle aufstellen. Die Punktkosten für Modelle bzw. Einheiten findest du dabei im sog. ["Munitorum Field Manual", welches ebenfalls kostenlos von Games Workshop zur Verfügung gestellt wird](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads).
+Eine Liste schreibst du in aller Regel selbst. Sie beschreibt, welche Modelle du in einem Spiel einsetzt. Bei einem Spiel einigst du dich jeweils mit deiner Mitspieler\*in auf eine Anzahl Punkte. Für diese Menge an Punkten darfst du dann Modelle aufstellen. Die Punktkosten für Modelle bzw. Einheiten findest du dabei im sog. "Munitorum Field Manual" (unter "Core Rules and Key Downloads" in den ).
 
 Die Figuren einer Combat Patrol-Box stellen bereits eine Liste dar, weshalb du in diesem Spielmodus noch gar keine schreiben musst. Sobald du aber deine Sammlung auszubauen beginnst, brauchst du eine für deine Modelle massgeschneiderte Liste.
 
@@ -84,12 +84,13 @@ Warhammer 40,000 bietet eine enorme Tiefe, was einer der Gründe ist, weshalb es
 
 Es besitzt aber auch ein entsprechend komplexes Regelwerk. Gerade zu Beginn können bereits erfahrene Spieler\*innen dir natürlich enorm dabei helfen, diese Regeln kennenzulernen und zu verstehen. So kommst du schnell ins Spiel und lernst die wichtigsten Mechaniken.
 
-Möchtest du die Regeln selbst anschauen, [auch diese sind kostenlos verfügbar](https://www.warhammer-community.com/warhammer-40000-downloads/#key-downloads).
+Möchtest du die Regeln selbst anschauen, findeset du sie wie gewohnt im [Warhammer Community Downloads-Bereich][1] unter "Core Rules and Key Downloads".
 Wichtig dabei sind die folgenden Dokumente:
 
 - _Core Rules:_ Die Grundregeln
-- _Rules Commentary:_ Erläuterungen und Kommentare zu den Grundregeln
+- _Core Rules Updates and Rules Commentary:_ Updates, Erläuterungen und Kommentare zu den Grundregeln
 - _Quick Start Guide:_ Ein Cheat Sheet bzw. Zusammenfassung
+- _Balance Dataslate:_ Anpassungen von Grund- und Fraktionsregeln für möglichst ausbalancierte Spiele
 
 Falls für dich kein Problem, empfehlen wir, die Regeln jeweils in Englisch anzuschauen. Das hat den grossen Vorteil, dass du bei Regelfragen mit den englischen Begriffen das ganze Internet dazu fragen kannst.
 
@@ -113,7 +114,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Adepta Sororitas](https://www.warhammer.com/en-GB/shop/codex-adepta-sororitas-2024-eng) (22.06.2024)
 - [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.08.2024)
 
-Am 18. November 2023 [informierte Games Workshop darüber, wann die nächsten Codexes zu erwarten sind](https://www.warhammer-community.com/2023/11/18/world-championships-preview-asmodai-demands-to-know-which-codexes-are-coming-next/):
+Am 29. August 2024 [informierte Games Workshop darüber, welches die ersten Codexes im 2025 seinw erden](https://www.warhammer-community.com/en-gb/articles/mddCdKxS/warhammer-nova-preview-warhammer-40000-roadmap-revealed/):
 
 {{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
 
@@ -133,7 +134,11 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Chaos Space Marines Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (30.05.2024)](https://www.warhammer-community.com/2024/05/30/starting-a-chaos-space-marines-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adepta Sororitas Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (19.06.2024)](https://www.warhammer-community.com/2024/06/19/starting-an-adepta-sororitas-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Genestealer Cults Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (21.06.2024)](https://www.warhammer-community.com/2024/06/21/starting-a-genestealer-cults-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Imperial Agents Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (22.08.2024)](https://www.warhammer-community.com/2024/08/22/starting-an-imperial-agents-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
 Melde dich bei uns, wenn du weitere Fragen hast!
+
+
+[1]: https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/
