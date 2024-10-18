@@ -113,6 +113,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Genestealer Cults](https://www.warhammer.com/en-GB/shop/codex-genestealer-cults-2024-eng) (22.06.2024)
 - [Codex: Adepta Sororitas](https://www.warhammer.com/en-GB/shop/codex-adepta-sororitas-2024-eng) (22.06.2024)
 - [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.08.2024)
+- [Codex Supplement: Blood Angels](https://www.warhammer.com/en-GB/shop/codex-supplement-blood-angels-2024-eng) (19.10.2024)
 
 Am 29. August 2024 [informierte Games Workshop darüber, welches die ersten Codexes im 2025 seinw erden](https://www.warhammer-community.com/en-gb/articles/mddCdKxS/warhammer-nova-preview-warhammer-40000-roadmap-revealed/):
 
@@ -135,6 +136,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting an Adepta Sororitas Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (19.06.2024)](https://www.warhammer-community.com/2024/06/19/starting-an-adepta-sororitas-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Genestealer Cults Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (21.06.2024)](https://www.warhammer-community.com/2024/06/21/starting-a-genestealer-cults-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Imperial Agents Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (22.08.2024)](https://www.warhammer-community.com/2024/08/22/starting-an-imperial-agents-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Blood Angels army in Warhammer 40,000 – Everything you need to know from painting to lore (28.10.2024)](https://www.warhammer-community.com/en-gb/articles/dc86aytp/starting-a-blood-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
