@@ -6,5 +6,5 @@ Website created using [Hugo](https://gohugo.io/) and [Gokarna theme](https://git
 ## Local development/testing
 
 ```
-podman run --rm --publish 8080:8080 -v $(pwd):/src:Z ghcr.io/peaceiris/hugo:latest-full server -p 8080
+podman run --rm --publish 8080:8080 -v $(pwd):/src:Z ghcr.io/peaceiris/hugo:latest-full server --port 8080 --bind 0.0.0.0
 ```
