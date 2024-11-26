@@ -1,3 +1,27 @@
+.contact-form form button {
+  margin: 5px auto -3px;
+  padding: 3px 5px;
+}
+
+.contact-form form button svg {
+  margin: 2px 1px -6px;
+}
+
+.contact-form form input {
+  margin: 5px auto 12px;
+  width: 50%;
+}
+
+.contact-form form svg {
+  margin: 2px auto -3px;
+  stroke-width: 2;
+}
+
+.contact-form form textarea {
+  margin: 5px auto 12px;
+  width: 50%;
+}
+
 figure figcaption {
   font-size: 12px;
   text-align: center;

@@ -1,0 +1,29 @@
+<div class="post container">
+    <div class="post-header-section">
+        <h1>{{ .Title | markdownify }}</h1>
+    </div>
+
+    {{ $action := .Params.form.action }}
+    {{ $formInput := .Params.form.input }}
+    {{ $message := .Params.form.message }}
+    {{ $method := .Params.form.method }}
+    {{ $submit := .Params.form.submit }}
+
+    <div class="contact-form">
+    <form method="{{ $method }}" action="{{ $action }}">
+      {{ range $input := $formInput }}
+      <label for="{{ .id }}"><span data-feather='{{ .icon }}'></span> {{ .label }}:</label><br />
+      <input type="{{ .type }}" id="{{ .id }}" name="{{ .id }}" {{ if .required }}required{{ end }}><br />
+      {{ end }}
+
+      <label for="message"><span data-feather='message-square'></span> {{ $message }}:</label><br />
+      <textarea id="message" name="message" cols="40" rows="10" required></textarea><br />
+
+      <button name="submit" type="submit"><span data-feather='send'></span> {{ $submit }}</button>
+    </form>
+
+    <div>
+      <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+    </div>
+    </div>
+</div>
