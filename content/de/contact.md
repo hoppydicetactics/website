@@ -17,5 +17,7 @@ form:
       required: true
   message: Nachricht
   method: post
+  recaptcha:
+    sitekey: 6Lf0xqkqAAAAAN6PqbE8azdGP8aZEXld-YuDRKBx
   submit: Abschicken
 ---

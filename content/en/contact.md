@@ -3,7 +3,7 @@ title: Contact
 type: contact
 
 form:
-  action: https://forms.un-static.com/forms/edabbc7e6afca6f165ce36fc7b6fa6997859c092
+  action: https://forms.un-static.com/forms/3c151b12d8494b3a769eddba4369037b93a1cbea
   input:
     - label: Name
       id: name
@@ -17,5 +17,7 @@ form:
       required: true
   message: Message
   method: post
+  recaptcha:
+    sitekey: 6Lf0xqkqAAAAAN6PqbE8azdGP8aZEXld-YuDRKBx
   submit: Send
 ---

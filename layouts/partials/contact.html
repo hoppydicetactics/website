@@ -7,6 +7,7 @@
     {{ $formInput := .Params.form.input }}
     {{ $message := .Params.form.message }}
     {{ $method := .Params.form.method }}
+    {{ $sitekey := .Params.form.recaptcha.sitekey }}
     {{ $submit := .Params.form.submit }}
 
     <div class="contact-form">
@@ -19,11 +20,13 @@
       <label for="message"><span data-feather='message-square'></span> {{ $message }}:</label><br />
       <textarea id="message" name="message" cols="40" rows="10" required></textarea><br />
 
+      <div class="g-recaptcha" data-sitekey="{{ $sitekey }}"></div>
+
       <button name="submit" type="submit"><span data-feather='send'></span> {{ $submit }}</button>
     </form>
 
     <div>
-      <p><small>(Powered by <a rel="nofollow" href="Un-static Forms">Un-static Forms</a>)</small></p>
+      <p><small>(Powered by <a rel="nofollow" href="https://un-static.com/">Un-static Forms</a>)</small></p>
     </div>
     </div>
 </div>
