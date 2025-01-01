@@ -10,7 +10,7 @@ form:
       icon: user
       type: text
       required: true
-    - label: Email Adresse
+    - label: Email-Adresse
       id: email
       icon: mail
       type: email
