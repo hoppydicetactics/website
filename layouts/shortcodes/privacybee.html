@@ -1,0 +1,5 @@
+{{- $id := .Get "id" -}}
+{{- $lang := .Get "lang" -}}
+
+<script src="https://www.privacybee.ch/widget.js"></script>
+<privacybee-widget website-id="{{ $id }}" lang="{{ $lang }}"></privacybee-widget>

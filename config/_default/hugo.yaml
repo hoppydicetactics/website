@@ -55,9 +55,6 @@ params:
     <link rel="stylesheet" type="text/css" href="/css/hoppy.css">
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
   tableOfContents:
     startLevel: 1
     endLevel: 4
