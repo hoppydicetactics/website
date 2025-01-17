@@ -36,6 +36,7 @@ params:
   avatarURL: /images/logo.webp
   AvatarAltText: Hoppy Dice Tactics
   avatarSize: size-l
+  fontSize: 16px
   socialIcons:
     - name: email
       url: contact/
