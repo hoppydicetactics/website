@@ -115,7 +115,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.08.2024)
 - [Codex Supplement: Blood Angels](https://www.warhammer.com/en-GB/shop/codex-supplement-blood-angels-2024-eng) (19.10.2024)
 
-Am 29. August 2024 [informierte Games Workshop darüber, welches die ersten Codexes im 2025 seinw erden](https://www.warhammer-community.com/en-gb/articles/mddCdKxS/warhammer-nova-preview-warhammer-40000-roadmap-revealed/):
+Am 17. Januar 2025 [informierte Games Workshop darüber, welches die nächsten Codexes im 2025 sein werden](https://www.warhammer-community.com/en-gb/articles/elxrte0d/lvo-preview-2025-nurgle-coughs-up-a-new-lord-of-poxes/):
 
 {{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
 
