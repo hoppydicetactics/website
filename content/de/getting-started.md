@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2025-01-17
+lastmod: 2025-02-07
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -106,14 +106,15 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Adeptus Mechanicus](https://www.warhammer.com/en-WW/shop/codex-adeptus-mechanicus-hb-eng-2023) (16.12.2023)
 - [Codex: Necrons](https://www.warhammer.com/en-WW/shop/codex-necrons-hb-eng-2023) (16.12.2023)
 - [Codex Supplement: Dark Angels](https://www.warhammer.com/en-WW/shop/codex-supplement-dark-angels-eng-2024) (9.3.2024)
-- [Codex: Orks](https://www.warhammer.com/shop/codex-orks-hb-english-2024) (27.04.2024)
-- [Codex: Adeptus Custodes](https://www.warhammer.com/shop/codex-adeptus-custodes-eng-2024) (27.04.2024)
-- [Codex: T'au Empire](https://www.warhammer.com/en-WW/shop/codex-tau-empire-2024-eng) (11.05.2024)
-- [Codex: Chaos Space Marines](https://www.warhammer.com/en-WW/shop/codex-chaos-space-marines-2024-eng) (25.05.2024)
-- [Codex: Genestealer Cults](https://www.warhammer.com/en-GB/shop/codex-genestealer-cults-2024-eng) (22.06.2024)
-- [Codex: Adepta Sororitas](https://www.warhammer.com/en-GB/shop/codex-adepta-sororitas-2024-eng) (22.06.2024)
-- [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.08.2024)
+- [Codex: Orks](https://www.warhammer.com/shop/codex-orks-hb-english-2024) (27.4.2024)
+- [Codex: Adeptus Custodes](https://www.warhammer.com/shop/codex-adeptus-custodes-eng-2024) (27.4.2024)
+- [Codex: T'au Empire](https://www.warhammer.com/en-WW/shop/codex-tau-empire-2024-eng) (11.5.2024)
+- [Codex: Chaos Space Marines](https://www.warhammer.com/en-WW/shop/codex-chaos-space-marines-2024-eng) (25.5.2024)
+- [Codex: Genestealer Cults](https://www.warhammer.com/en-GB/shop/codex-genestealer-cults-2024-eng) (22.6.2024)
+- [Codex: Adepta Sororitas](https://www.warhammer.com/en-GB/shop/codex-adepta-sororitas-2024-eng) (22.6.2024)
+- [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.8.2024)
 - [Codex Supplement: Blood Angels](https://www.warhammer.com/en-GB/shop/codex-supplement-blood-angels-2024-eng) (19.10.2024)
+- [Codex: Aeldari](https://www.warhammer.com/en-GB/shop/codex-aeldari-2025-eng) (8.2.2025)
 
 Am 17. Januar 2025 [informierte Games Workshop darüber, welches die nächsten Codexes im 2025 sein werden](https://www.warhammer-community.com/en-gb/articles/elxrte0d/lvo-preview-2025-nurgle-coughs-up-a-new-lord-of-poxes/):
 
@@ -124,19 +125,20 @@ Am 17. Januar 2025 [informierte Games Workshop darüber, welches die nächsten C
 
 Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu informieren. Bspw. hat Games Workshop Artikel veröffentlicht, die dir einen weiteren Einblick in die verschiedenen Fraktionen geben:
 
-- [Starting a Tyranids Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (8.09.2023)](https://www.warhammer-community.com/2023/09/08/starting-a-tyranids-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Tyranids Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (8.9.2023)](https://www.warhammer-community.com/2023/09/08/starting-a-tyranids-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Space Marine Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (3.10.2023)](https://www.warhammer-community.com/2023/10/03/starting-a-space-marine-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adeptus Mechanicus Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (6.12.2023)](https://www.warhammer-community.com/2023/12/06/starting-an-adeptus-mechanicus-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Necron Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (8.12.2023)](https://www.warhammer-community.com/2023/12/08/starting-a-necron-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Dark Angels Army in Warhammer 40,000 – Everything You Need To Know From Painting to Lore (27.2.2024)](https://www.warhammer-community.com/2024/02/27/starting-a-dark-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
-- [Starting an Ork Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (24.04.2024)](https://www.warhammer-community.com/2024/04/24/starting-an-ork-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
-- [Starting an Adeptus Custodes Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (26.04.2024)](https://www.warhammer-community.com/2024/04/26/starting-an-adeptus-custodes-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
-- [Starting a T’au Empire Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (08.05.2024)](https://www.warhammer-community.com/2024/05/08/starting-a-tau-empire-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Ork Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (24.4.2024)](https://www.warhammer-community.com/2024/04/24/starting-an-ork-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Adeptus Custodes Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (26.4.2024)](https://www.warhammer-community.com/2024/04/26/starting-an-adeptus-custodes-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a T’au Empire Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (8.5.2024)](https://www.warhammer-community.com/2024/05/08/starting-a-tau-empire-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Chaos Space Marines Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (30.05.2024)](https://www.warhammer-community.com/2024/05/30/starting-a-chaos-space-marines-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Adepta Sororitas Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (19.06.2024)](https://www.warhammer-community.com/2024/06/19/starting-an-adepta-sororitas-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Genestealer Cults Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (21.06.2024)](https://www.warhammer-community.com/2024/06/21/starting-a-genestealer-cults-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Imperial Agents Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (22.08.2024)](https://www.warhammer-community.com/2024/08/22/starting-an-imperial-agents-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Blood Angels army in Warhammer 40,000 – Everything you need to know from painting to lore (28.10.2024)](https://www.warhammer-community.com/en-gb/articles/dc86aytp/starting-a-blood-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore (6.2.2025)](https://www.warhammer-community.com/en-gb/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
