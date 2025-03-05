@@ -115,6 +115,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Imperial Agents](https://www.warhammer.com/en-GB/shop/codex-imperial-agents-2024-eng) (24.8.2024)
 - [Codex Supplement: Blood Angels](https://www.warhammer.com/en-GB/shop/codex-supplement-blood-angels-2024-eng) (19.10.2024)
 - [Codex: Aeldari](https://www.warhammer.com/en-GB/shop/codex-aeldari-2025-eng) (8.2.2025)
+- [Codex: Astra Militarum](https://www.warhammer.com/en-WW/shop/codex-astra-militarum-2025-eng) (22.2.2025)
 
 Am 17. Januar 2025 [informierte Games Workshop darüber, welches die nächsten Codexes im 2025 sein werden](https://www.warhammer-community.com/en-gb/articles/elxrte0d/lvo-preview-2025-nurgle-coughs-up-a-new-lord-of-poxes/):
 
