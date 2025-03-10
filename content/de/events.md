@@ -24,7 +24,7 @@ Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.
 ## Details (v{{% param version %}})
 ### Regeln
 
-Gespielt wird nach dem [Pariah Nexus Tournament Companion](https://assets.warhammer-community.com/eng_warhammer40000_pariah_nexus_tournament_companion-eixdmbxjrp-dddcylhhbo.pdf).
+Gespielt wird nach dem [Pariah Nexus Tournament Companion](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/).
 
 **Listen** müssen bis spätestens am Samstag, **17.05.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
 Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) aufgeführt sind.
