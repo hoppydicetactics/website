@@ -4,11 +4,11 @@ type: page
 showTableOfContents: true
 version: "1.0"
 ---
-## Feb 1, 2025 - Hoppy Dice Tournament
+## May 24, 2025 - Hoppy Dice Tournament
 
 We are running our first Warhammer 40,000 tournament together with [diespieler.ch](https://diespieler.ch)!
 
-- **Date:** February 1, 2025, 9:00-19:30
+- **Date:** May 24, 2025, 9:00-20:00
 - **Location:** Seilerstrasse 4, 3011 Bern
 
 This is an 8 player singles event over 3 rounds with 2000 points and the latest matched play rules.
@@ -19,7 +19,7 @@ In addition to a trophy, prizes include a Combat Patrol box of your choice and o
 ## Registration
 
 
-Please register on [Best Coast Pairings](https://www.bestcoastpairings.com/event/BY47T0PFL8).
+Please register on [Best Coast Pairings](https://www.bestcoastpairings.com/event/4J87vPgoZIMJ).
 
 
 ## Details (v{{% param version %}})
@@ -27,23 +27,23 @@ Please register on [Best Coast Pairings](https://www.bestcoastpairings.com/event
 
 The game will be played according to the [Pariah Nexus Tournament Companion](https://assets.warhammer-community.com/eng_warhammer40000_pariah_nexus_tournament_companion-eixdmbxjrp-dddcylhhbo.pdf).
 
-**Lists** must be uploaded to Best Coast Pairings by Saturday, **January 25, 23:59** at the latest.
-All units listed in the current [Munitorum Field Manual](https://assets.warhammer-community.com/eng_wh40k_core&key_munitorum_field_manual_dec2024-7nrluyjjjp-ati25utyka.pdf) are eligible.
+**Lists** must be uploaded to Best Coast Pairings by Saturday, **May 17, 23:59** at the latest.
+All units listed in the current [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) are eligible.
 
-**Deadline** for Codexes, Balance Dataslates and other Erratas is **January 23**.
+**Deadline** for Codexes, Balance Dataslates and other Erratas is **May 12**.
 
 
 ### Procedure
 
-|       |                      |                                                             |                            |
-| ----- | -------------------- | ----------------------------------------------------------- | -------------------------- |
-| 08:30 | Doors open           |                                                             |                            |
-| 09:00 | Game 1               | Mission O (Terraform, Stalwarts, Crucible of Battle)        | Terrain&#160;Layout&#160;6 |
-| 12:00 | Lunch break          |                                                             |                            |
-| 13:00 | Game 2               | Mission B (Purge the Foe, Smoke and Mirrors, Tipping Point) | Terrain&#160;Layout&#160;4 |
-| 16:00 | Break                |                                                             |                            |
-| 16:30 | Game 3               | Mission S (Linchpin, Raise Banners, Dawn of War)            | Terrain&#160;Layout&#160;5 |
-| 19:45 | Ranking announcement |                                                             |                            |
+|       |                      |
+| ----- | -------------------- |
+| 08:30 | Doors open           |
+| 09:00 | Game 1               |
+| 12:00 | Lunch break          |
+| 13:00 | Game 2               |
+| 16:00 | Break                |
+| 16:30 | Game 3               |
+| 19:45 | Ranking announcement |
 
 
 ### Terrain

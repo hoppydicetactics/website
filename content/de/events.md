@@ -4,11 +4,11 @@ type: page
 showTableOfContents: true
 version: "1.0"
 ---
-# 1. Februar 2025 - Hoppy Dice Tournament
+# 24. Mai 2025 - Hoppy Dice Tournament
 
-Wir führen unser erstes Warhammer 40,000-Turnier zusammen mit [diespieler.ch](https://diespieler.ch) durch!
+Wir führen unser nächstes Warhammer 40,000-Turnier zusammen mit [diespieler.ch](https://diespieler.ch) durch!
 
-- **Datum:** 1. Februar 2025, 9:00-20:00 Uhr
+- **Datum:** 24. Mai 2025, 9:00-20:00 Uhr
 - **Ort:** Seilerstrasse 4, 3011 Bern
 
 Die Platzzahl ist auf 8 beschränkt. Es werden 3 Runden mit 2000 Punkten und den neusten Matched Play-Regeln gespielt.
@@ -18,7 +18,7 @@ Zu gewinnen wird es nebst einem Pokal eine Combat Patrol-Box nach Wahl und weite
 
 ## Anmeldung
 
-Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.com/event/BY47T0PFL8).
+Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.com/event/4J87vPgoZIMJ).
 
 
 ## Details (v{{% param version %}})
@@ -26,23 +26,23 @@ Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.
 
 Gespielt wird nach dem [Pariah Nexus Tournament Companion](https://assets.warhammer-community.com/eng_warhammer40000_pariah_nexus_tournament_companion-eixdmbxjrp-dddcylhhbo.pdf).
 
-**Listen** müssen bis spätestens am Samstag, **25.1.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
-Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://assets.warhammer-community.com/eng_wh40k_core&key_munitorum_field_manual_dec2024-7nrluyjjjp-ati25utyka.pdf) aufgeführt sind.
+**Listen** müssen bis spätestens am Samstag, **17.05.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
+Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) aufgeführt sind.
 
-**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **23.1.25**.
+**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **12.05.25**.
 
 
 ### Ablauf
 
-|        |                  |                                                             |                            |
-| ------ | ---------------- | ----------------------------------------------------------- | -------------------------- |
-| 08:30  | Türöffnung       |                                                             |                            |
-| 09:00  | Spiel 1          | Mission O (Terraform, Stalwarts, Crucible of Battle)        | Terrain&#160;Layout&#160;6 |
-| 12:00  | Mittagspause     |                                                             |                            |
-| 13:00  | Spiel 2          | Mission B (Purge the Foe, Smoke and Mirrors, Tipping Point) | Terrain&#160;Layout&#160;4 |
-| 16:00  | Pause            |                                                             |                            |
-| 16:30  | Spiel 3          | Mission S (Linchpin, Raise Banners, Dawn of War)            | Terrain&#160;Layout&#160;5 |
-| 19:45  | Rangverkündigung |                                                             |                            |
+|        |                  | 
+| ------ | ---------------- |
+| 08:30  | Türöffnung       |
+| 09:00  | Spiel 1          |
+| 12:00  | Mittagspause     |
+| 13:00  | Spiel 2          |
+| 16:00  | Pause            |
+| 16:30  | Spiel 3          |
+| 19:45  | Rangverkündigung |
 
 
 ### Terrain
