@@ -117,7 +117,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Aeldari](https://www.warhammer.com/en-GB/shop/codex-aeldari-2025-eng) (8.2.2025)
 - [Codex: Astra Militarum](https://www.warhammer.com/en-WW/shop/codex-astra-militarum-2025-eng) (22.2.2025)
 
-Am 17. Januar 2025 [informierte Games Workshop darüber, welches die nächsten Codexes im 2025 sein werden](https://www.warhammer-community.com/en-gb/articles/elxrte0d/lvo-preview-2025-nurgle-coughs-up-a-new-lord-of-poxes/):
+Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
 {{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
 
