@@ -116,6 +116,7 @@ Die bisher veröffentlichten Codexes:
 - [Codex Supplement: Blood Angels](https://www.warhammer.com/en-GB/shop/codex-supplement-blood-angels-2024-eng) (19.10.2024)
 - [Codex: Aeldari](https://www.warhammer.com/en-GB/shop/codex-aeldari-2025-eng) (8.2.2025)
 - [Codex: Astra Militarum](https://www.warhammer.com/en-WW/shop/codex-astra-militarum-2025-eng) (22.2.2025)
+- [Codex: Emperor's Children](https://www.warhammer.com/shop/codex-emperors-children-2025-eng) (26.4.2025)
 
 Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
@@ -140,6 +141,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting an Imperial Agents Army in Warhammer 40,000 – Everything You Need To Know, From Painting to Lore (22.08.2024)](https://www.warhammer-community.com/2024/08/22/starting-an-imperial-agents-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Blood Angels army in Warhammer 40,000 – Everything you need to know from painting to lore (28.10.2024)](https://www.warhammer-community.com/en-gb/articles/dc86aytp/starting-a-blood-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore (6.2.2025)](https://www.warhammer-community.com/en-gb/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore (14.4.2025)](https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
