@@ -35,15 +35,15 @@ All units listed in the current [Munitorum Field Manual](https://www.warhammer-c
 
 ### Procedure
 
-|       |                      |
-| ----- | -------------------- |
-| 08:30 | Doors open           |
-| 09:00 | Game 1               |
-| 12:00 | Lunch break          |
-| 13:00 | Game 2               |
-| 16:00 | Break                |
-| 16:30 | Game 3               |
-| 19:45 | Ranking announcement |
+|       |                      |                                                            |                            |
+| ----- | -------------------- |------------------------------------------------------------|----------------------------|
+| 08:30 | Doors open           |                                                            |                            |
+| 09:00 | Game 1               | Mission C (Linchpin, Fog of War, Tipping Point)            | Terrain&#160;Layout&#160;4 |
+| 12:00 | Lunch break          |                                                            |                            |
+| 13:00 | Game 2               | Mission N (The Ritual, Swift Action, Crucible of Battle)   | Terrain&#160;Layout&#160;2 |
+| 16:00 | Break                |                                                            |                            |
+| 16:30 | Game 3               | Mission K (Scorched Earth, Stalwarts, Search and Destroy)  | Terrain&#160;Layout&#160;6 |
+| 19:45 | Ranking announcement |                                                            |                            |
 
 
 ### Terrain
