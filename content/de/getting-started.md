@@ -142,6 +142,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Blood Angels army in Warhammer 40,000 – Everything you need to know from painting to lore (28.10.2024)](https://www.warhammer-community.com/en-gb/articles/dc86aytp/starting-a-blood-angels-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore (6.2.2025)](https://www.warhammer-community.com/en-gb/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore (14.4.2025)](https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore (18.4.2025)](https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
