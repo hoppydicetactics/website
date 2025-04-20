@@ -34,15 +34,15 @@ Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https:
 
 ### Ablauf
 
-|        |                  | 
-| ------ | ---------------- |
-| 08:30  | Türöffnung       |
-| 09:00  | Spiel 1          |
-| 12:00  | Mittagspause     |
-| 13:00  | Spiel 2          |
-| 16:00  | Pause            |
-| 16:30  | Spiel 3          |
-| 19:45  | Rangverkündigung |
+|        |                  |                                                            |                            | 
+| ------ | ---------------- |------------------------------------------------------------|----------------------------|
+| 08:30  | Türöffnung       |                                                            |                            |
+| 09:00  | Spiel 1          | Mission C (Linchpin, Fog of War, Tipping Point)            | Terrain&#160;Layout&#160;4 |
+| 12:00  | Mittagspause     |                                                            |                            |
+| 13:00  | Spiel 2          | Mission N (The Ritual, Swift Action, Crucible of Battle)   | Terrain&#160;Layout&#160;2 |
+| 16:00  | Pause            |                                                            |                            |
+| 16:30  | Spiel 3          | Mission K (Scorched Earth, Stalwarts, Search and Destroy)  | Terrain&#160;Layout&#160;6 |
+| 19:45  | Rangverkündigung |                                                            |                            |
 
 
 ### Terrain
