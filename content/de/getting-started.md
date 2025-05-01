@@ -99,7 +99,7 @@ Falls für dich kein Problem, empfehlen wir, die Regeln jeweils in Englisch anzu
 
 Sehr ähnlich wie der Index ist ein Codex das komplette Regelbuch für eine bestimmte Fraktion, jeweils frisch publiziert für jede Edition. Während der Index ein "Detachment" enthält (also ein "Flavor" oder Subfraktion deiner Fraktion), enthält der Codex alle verfügbaren Detachments (in der Regel 5 oder mehr) und erlaubt dir so, dasjenige Detachment zu spielen, welches am besten zu dir passt. Auch enthalten die Codexes Hintergrundgeschichten und Informationen zu deiner Fraktion.
 
-Die bisher veröffentlichten Codexes:
+Die bisher veröffentlichten Codexes (mit Erscheinungsdatum):
 
 - [Codex: Tyranids](https://www.warhammer.com/en-WW/shop/codex-tyranids-2023-eng) (16.9.2023)
 - [Codex: Space Marines](https://www.warhammer.com/en-WW/shop/codex-space-marines-hb-2023-eng) (14.10.2023)
@@ -117,6 +117,8 @@ Die bisher veröffentlichten Codexes:
 - [Codex: Aeldari](https://www.warhammer.com/en-GB/shop/codex-aeldari-2025-eng) (8.2.2025)
 - [Codex: Astra Militarum](https://www.warhammer.com/en-WW/shop/codex-astra-militarum-2025-eng) (22.2.2025)
 - [Codex: Emperor's Children](https://www.warhammer.com/shop/codex-emperors-children-2025-eng) (26.4.2025)
+- [Codex: Death Guard](https://www.warhammer.com/en-WW/shop/codex-death-guard-hb-2025-eng) (10.5.2025)
+- [Codex: World Eaters](https://www.warhammer.com/en-WW/shop/codex-world-eaters-2025-eng) (10.5.2025)
 
 Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
@@ -143,6 +145,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting an Aeldari Army in Warhammer 40,000 – Everything you need to know, from painting to lore (6.2.2025)](https://www.warhammer-community.com/en-gb/articles/s9vyktok/starting-an-aeldari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Emperor’s Children Army in Warhammer 40,000 – Everything you need to know, from painting to lore (14.4.2025)](https://www.warhammer-community.com/en-gb/articles/hsqlxqbs/starting-an-emperors-children-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore (18.4.2025)](https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a World Eaters Army in Warhammer 40,000 – Everything you need to know, from painting to lore (1.5.2025)](https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-world-eaters-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
