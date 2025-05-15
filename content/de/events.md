@@ -2,7 +2,7 @@
 title: Events
 type: page
 showTableOfContents: true
-version: "1.0"
+version: "1.1"
 ---
 # 24. Mai 2025 - Hoppy Dice Tournament
 
@@ -22,6 +22,11 @@ Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.
 
 
 ## Details (v{{% param version %}})
+### Änderungen
+
+- Version 1.1: Änderung Stichtag vom 12.05. auf 15.05.25
+
+
 ### Regeln
 
 Gespielt wird nach dem [Pariah Nexus Tournament Companion](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/).
@@ -29,7 +34,7 @@ Gespielt wird nach dem [Pariah Nexus Tournament Companion](https://www.warhammer
 **Listen** müssen bis spätestens am Samstag, **17.05.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
 Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) aufgeführt sind.
 
-**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **12.05.25**.
+**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **15.05.25**.
 
 
 ### Ablauf
