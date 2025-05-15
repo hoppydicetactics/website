@@ -2,7 +2,7 @@
 title: Events
 type: page
 showTableOfContents: true
-version: "1.0"
+version: "1.1"
 ---
 ## May 24, 2025 - Hoppy Dice Tournament
 
@@ -23,6 +23,11 @@ Please register on [Best Coast Pairings](https://www.bestcoastpairings.com/event
 
 
 ## Details (v{{% param version %}})
+### Changes
+
+- Version 1.1: Change of deadline for Codexes etc. from May 12 to May 15
+
+
 ### Rules
 
 The game will be played according to the [Pariah Nexus Tournament Companion](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/).
