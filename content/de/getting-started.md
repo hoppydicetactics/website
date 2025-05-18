@@ -119,6 +119,7 @@ Die bisher veröffentlichten Codexes (mit Erscheinungsdatum):
 - [Codex: Emperor's Children](https://www.warhammer.com/shop/codex-emperors-children-2025-eng) (26.4.2025)
 - [Codex: Death Guard](https://www.warhammer.com/en-WW/shop/codex-death-guard-hb-2025-eng) (10.5.2025)
 - [Codex: World Eaters](https://www.warhammer.com/en-WW/shop/codex-world-eaters-2025-eng) (10.5.2025)
+- [Codex: Thousand Sons](https://www.warhammer.com/en-GB/shop/codex-thousand-sons-hb-2025-eng) (31.5.2025)
 
 Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
