@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2025-02-07
+lastmod: 2025-05-31
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!

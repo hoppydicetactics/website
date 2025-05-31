@@ -11,18 +11,18 @@ main:
     pre: <span data-feather='map'></span>
     url: /de/terrain-layouts/
     weight: 4
-  - identifier: contact
-    pre: <img class='svg-inject' src='/svg/icons/email.svg' />
-    url: /de/contact/
-    weight: 11
-  - identifier: discord
-    pre: <img class='svg-inject' src='/svg/icons/discord.svg' />
+  - name: Discord
+    pre: <span data-feather='message-circle'></span>
     url: https://discord.gg/Z8qSE5QNu6
-    weight: 12
+    weight: 11
     params:
       newPage: true
+  - identifier: contact
+    pre: <span data-feather='mail'></span>
+    url: /de/contact/
+    weight: 12
   - identifier: github
-    pre: <img class='svg-inject' src='/svg/icons/github.svg' />
+    pre: <span data-feather='github'></span>
     url: https://github.com/hoppydicetactics/website
     weight: 13
     params:
