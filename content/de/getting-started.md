@@ -148,6 +148,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting an Astra Militarum Army in Warhammer 40,000 – Everything you need to know, from painting to lore (18.4.2025)](https://www.warhammer-community.com/en-gb/articles/mveiuxck/starting-an-astra-militarum-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a World Eaters Army in Warhammer 40,000 – Everything you need to know, from painting to lore (1.5.2025)](https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-world-eaters-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Death Guard Army in Warhammer 40,000 – Everything you need to know, from painting to lore (2.5.2025)](https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-death-guard-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Thousand Sons Army in Warhammer 40,000 – Everything you need to know, from painting to lore (23.5.2025)](https://www.warhammer-community.com/en-gb/articles/jyv0zxf6/starting-a-thousand-sons-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
