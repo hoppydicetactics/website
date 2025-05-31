@@ -3,10 +3,6 @@ main:
     pre: <span data-feather='users'></span>
     url: /en/about/
     weight: 1
-  - name: Events
-    pre: <span data-feather='calendar'></span>
-    url: /en/events/
-    weight: 2
   - name: Terrain Layouts
     pre: <span data-feather='map'></span>
     url: /en/terrain-layouts/
