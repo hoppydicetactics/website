@@ -120,6 +120,7 @@ Die bisher veröffentlichten Codexes (mit Erscheinungsdatum):
 - [Codex: Death Guard](https://www.warhammer.com/en-WW/shop/codex-death-guard-hb-2025-eng) (10.5.2025)
 - [Codex: World Eaters](https://www.warhammer.com/en-WW/shop/codex-world-eaters-2025-eng) (10.5.2025)
 - [Codex: Thousand Sons](https://www.warhammer.com/en-GB/shop/codex-thousand-sons-hb-2025-eng) (31.5.2025)
+- [Codex Supplement: Space Wolves](https://www.warhammer.com/en-WW/shop/codex-supplement-space-wolves-2025-eng) (12.7.2025)
 
 Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
@@ -149,6 +150,7 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a World Eaters Army in Warhammer 40,000 – Everything you need to know, from painting to lore (1.5.2025)](https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-world-eaters-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Death Guard Army in Warhammer 40,000 – Everything you need to know, from painting to lore (2.5.2025)](https://www.warhammer-community.com/en-gb/articles/xixjivoy/starting-a-death-guard-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Thousand Sons Army in Warhammer 40,000 – Everything you need to know, from painting to lore (23.5.2025)](https://www.warhammer-community.com/en-gb/articles/jyv0zxf6/starting-a-thousand-sons-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Space Wolves Army in Warhammer 40,000 – Everything you need to know, from painting to lore (3.7.2025)](https://www.warhammer-community.com/en-gb/articles/9lj8ew6i/starting-a-space-wolves-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
