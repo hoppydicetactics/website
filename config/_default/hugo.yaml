@@ -38,8 +38,6 @@ params:
   avatarSize: size-l
   fontSize: 16px
   socialIcons:
-    - name: email
-      url: contact/
     - name: discord
       url: https://discord.gg/Z8qSE5QNu6
   metaKeywords:
