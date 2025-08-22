@@ -6,14 +6,14 @@ version: "1.1"
 ---
 ## November 1, 2025 - Hoppy Dice Tournament
 
-We are running our first Warhammer 40,000 tournament together with [diespieler.ch](https://diespieler.ch)!
+We are running our next Warhammer 40,000 tournament together with [diespieler.ch](https://diespieler.ch)!
 
 - **Date:** November 1, 2025, 9:00-20:00
 - **Location:** Seilerstrasse 4, 3011 Bern
 
 This is an 8 player singles event over 3 rounds with 2000 points and the latest matched play rules.
 
-In addition to a trophy, prizes include a Combat Patrol box of your choice and other items.
+In addition to a trophy, prizes include a Combat Patrol box (or similar) of your choice and other items.
 
 
 ## Registration
@@ -29,20 +29,20 @@ The game will be played according to the [Chapter Approved 2025-26: Mission Deck
 **Lists** must be uploaded to Best Coast Pairings by Saturday, **November 25, 23:59** at the latest.
 All units listed in the current [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) are eligible.
 
-**Deadline** for Codexes, Balance Dataslates and other Erratas is **November 20, 2025**.
+**Deadline** for Codexes, Balance Dataslates and other Erratas is **Monday November 20, 2025**.
 
 
 ### Procedure
 
-|       |                      |                                                            |                            |
-| ----- | -------------------- |------------------------------------------------------------|----------------------------|
-| 08:30 | Doors open           |                                                            |                            |
-| 09:00 | Game 1               | Mission C (Linchpin, Fog of War, Tipping Point)            | Terrain&#160;Layout&#160;4 |
-| 12:00 | Lunch break          |                                                            |                            |
-| 13:00 | Game 2               | Mission N (The Ritual, Swift Action, Crucible of Battle)   | Terrain&#160;Layout&#160;2 |
-| 16:00 | Break                |                                                            |                            |
-| 16:30 | Game 3               | Mission K (Scorched Earth, Stalwarts, Search and Destroy)  | Terrain&#160;Layout&#160;6 |
-| 19:45 | Ranking announcement |                                                            |                            |
+|       |                      |
+| ----- | -------------------- |
+| 08:30 | Doors open           |
+| 09:00 | Game 1               |
+| 12:00 | Lunch break          |
+| 13:00 | Game 2               |
+| 16:00 | Break                |
+| 16:30 | Game 3               |
+| 19:45 | Ranking announcement |
 
 
 ### Terrain

@@ -13,7 +13,7 @@ Wir führen unser nächstes Warhammer 40,000-Turnier zusammen mit [diespieler.ch
 
 Die Platzzahl ist auf 8 beschränkt. Es werden 3 Runden mit 2000 Punkten und den neusten Matched Play-Regeln gespielt.
 
-Zu gewinnen wird es nebst einem Pokal eine Combat Patrol-Box nach Wahl und weitere Artikel geben.
+Zu gewinnen wird es nebst einem Pokal eine Combat Patrol-Box (oder ähnlich) nach Wahl und weitere Artikel geben.
 
 
 ## Anmeldung
@@ -28,7 +28,7 @@ Gespielt wird nach dem [Chapter Approved 2025-26: Mission Deck](https://www.warh
 **Listen** müssen bis spätestens am Samstag, **25.10.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
 Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) aufgeführt sind.
 
-**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **20.10.25**.
+**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **Montag 20.10.25**.
 
 
 ### Ablauf
