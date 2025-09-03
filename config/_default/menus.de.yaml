@@ -6,24 +6,20 @@ main:
   - name: Events
     pre: <span data-feather='calendar'></span>
     url: /de/events/
-    weight: 15
+    weight: 20
   - name: Starten mit Warhammer 40,000
     pre: <span data-feather='play'></span>
     url: /de/getting-started/
-    weight: 20
-  - name: Terrain Layouts
-    pre: <span data-feather='map'></span>
-    url: /de/terrain-layouts/
-    weight: 30
+    weight: 90
   - name: Discord
     pre: <span data-feather='message-circle'></span>
     url: https://discord.gg/Z8qSE5QNu6
-    weight: 40
+    weight: 100
     params:
       newPage: true
   - identifier: github
     pre: <span data-feather='github'></span>
     url: https://github.com/hoppydicetactics/website
-    weight: 100
+    weight: 110
     params:
       newPage: true
