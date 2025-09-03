@@ -3,6 +3,10 @@ main:
     pre: <span data-feather='users'></span>
     url: /en/about/
     weight: 10
+  - name: Events
+    pre: <span data-feather='calendar'></span>
+    url: /en/events/
+    weight: 20
   - name: Discord
     pre: <span data-feather='message-circle'></span>
     url: https://discord.gg/Z8qSE5QNu6

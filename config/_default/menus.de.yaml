@@ -3,6 +3,10 @@ main:
     pre: <span data-feather='users'></span>
     url: /de/about/
     weight: 10
+  - name: Events
+    pre: <span data-feather='calendar'></span>
+    url: /de/events/
+    weight: 20
   - name: Starten mit Warhammer 40,000
     pre: <span data-feather='play'></span>
     url: /de/getting-started/
