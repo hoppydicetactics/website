@@ -28,7 +28,7 @@ Gespielt wird nach dem [Chapter Approved 2025-26: Mission Deck](https://www.warh
 **Listen** müssen bis spätestens am Samstag, **25.10.25 23:59 Uhr**, auf Best Coast Pairings hochgeladen sein.
 Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) aufgeführt sind.
 
-**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **Montag 20.10.25**.
+**Stichtag** für Codexes, Balance Dataslates und weitere Erratas ist der **Donnerstag 23.10.25**.
 
 
 ### Ablauf

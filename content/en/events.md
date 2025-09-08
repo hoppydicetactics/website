@@ -26,10 +26,10 @@ Please register on [\[link coming soon\]]().
 
 The game will be played according to the [Chapter Approved 2025-26: Mission Deck](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/).
 
-**Lists** must be uploaded to Best Coast Pairings by Saturday, **November 25, 23:59** at the latest.
+**Lists** must be uploaded to Best Coast Pairings by Saturday, **October 25, 23:59** at the latest.
 All units listed in the current [Munitorum Field Manual](https://www.warhammer-community.com/en-gb/downloads/warhammer-40000/) are eligible.
 
-**Deadline** for Codexes, Balance Dataslates and other Erratas is **Monday November 20, 2025**.
+**Deadline** for Codexes, Balance Dataslates and other Erratas is **Thursday October 23, 2025**.
 
 
 ### Procedure
