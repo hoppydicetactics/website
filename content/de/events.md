@@ -18,7 +18,7 @@ Zu gewinnen wird es nebst einem Pokal eine Combat Patrol-Box (oder ähnlich) nac
 
 ## Anmeldung
 
-Anmelden kannst du dich auf [\[link folgt\]]().
+Anmelden kannst du dich auf [Best Coast Pairings](https://www.bestcoastpairings.com/event/ijUUu1YKB1KM).
 
 
 ### Regeln

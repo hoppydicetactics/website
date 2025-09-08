@@ -19,7 +19,7 @@ In addition to a trophy, prizes include a Combat Patrol box (or similar) of your
 ## Registration
 
 
-Please register on [\[link coming soon\]]().
+Please register on [Best Coast Pairings](https://www.bestcoastpairings.com/event/ijUUu1YKB1KM).
 
 
 ### Rules
