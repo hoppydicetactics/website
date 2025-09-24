@@ -2,7 +2,7 @@
 title: Events
 type: page
 showTableOfContents: true
-version: "1.1"
+version: "1.0"
 ---
 ## November 1, 2025 - Hoppy Dice Tournament
 
