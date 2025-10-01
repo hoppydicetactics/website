@@ -4,6 +4,24 @@ type: page
 showTableOfContents: true
 version: "1.0"
 ---
+# October 3-5 - HeroFest 2025
+
+Visit us at [HeroFest 2025 in the Warhammer & Tabletop Area](https://herofest.ch/en/hallenplaene) for a [King of the Colosseum demo game](https://playontabletop.com/king-of-the-colosseum/) and to watch the live show games by [Play On Tabletop](https://www.youtube.com/c/PlayOnTabletop)!
+
+- More information and stage times can be found [on the HeroFest website](https://herofest.ch/en/exhibitors/10372)!
+- And here are our lists we use for the King of the Colosseum demo games:
+  - [Adepta Sororitas](/en/herofest/adepta-sororitas)
+  - [Adeptus Custodes](/en/herofest/adeptus-custodes)
+  - [Astra Militarum](/en/herofest/astra-militarum)
+  - [Chaos Daemons](/en/herofest/chaos-daemons)
+  - [Chaos Space Marines](/en/herofest/chaos-space-marines)
+  - [Dark Angels](/en/herofest/dark-angels)
+  - [Grey Knights](/en/herofest/grey-knights)
+  - [Orks](/en/herofest/orks)
+  - [T'au Empire](/en/herofest/tau-empire)
+  - [Tyranids](/en/herofest/tyranids)
+
+
 ## November 1, 2025 - Hoppy Dice Tournament
 
 We are running our next Warhammer 40,000 tournament together with [diespieler.ch](https://diespieler.ch)!
