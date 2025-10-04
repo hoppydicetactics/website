@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2025-08-25
+lastmod: 2025-10-04
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -156,6 +156,8 @@ Es gibt natürlich eine Menge weiterer Quellen, die du nutzen kannst, um dich zu
 - [Starting a Space Wolves Army in Warhammer 40,000 – Everything you need to know, from painting to lore (3.7.2025)](https://www.warhammer-community.com/en-gb/articles/9lj8ew6i/starting-a-space-wolves-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Grey Knights army in Warhammer 40,000 – Everything you need to know, from painting to lore (7.8.2025)](https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-grey-knights-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 - [Starting a Leagues of Votann army in Warhammer 40,000 – Everything you need to know, from painting to lore (21.8.2025)](https://www.warhammer-community.com/en-gb/articles/w7eootuv/starting-a-leagues-of-votann-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Black Templars army in Warhammer 40,000 – Everything you need to know, from painting to lore (11.9.2025)](https://www.warhammer-community.com/en-gb/articles/mvsgigdm/starting-a-black-templars-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
+- [Starting a Drukhari army in Warhammer 40,000 – Everything you need to know, from painting to lore (2.10.2025)](https://www.warhammer-community.com/en-gb/articles/fiqetk3h/starting-a-drukhari-army-in-warhammer-40000-everything-you-need-to-know-from-painting-to-lore/)
 
 Und damit sind wir am Schluss dieses Posts angelangt! Wir hoffen, die zusammengetragenen Informationen haben dir geholfen, den Einstieg in Warhammer 40,000 zu finden.
 
