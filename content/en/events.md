@@ -4,7 +4,7 @@ type: page
 showTableOfContents: true
 version: "1.0"
 ---
-## November 1, 2025 - Hoppy Dice Tournament
+# November 1, 2025 - Hoppy Dice Tournament
 
 We are running our next Warhammer 40,000 tournament together with [diespieler.ch](https://diespieler.ch)!
 
