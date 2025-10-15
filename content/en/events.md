@@ -34,15 +34,15 @@ All units listed in the current [Munitorum Field Manual](https://www.warhammer-c
 
 ### Procedure
 
-|       |                      |
-| ----- | -------------------- |
-| 08:30 | Doors open           |
-| 09:00 | Game 1               |
-| 12:00 | Lunch break          |
-| 13:00 | Game 2               |
-| 16:00 | Break                |
-| 16:30 | Game 3               |
-| 19:45 | Ranking announcement |
+|        |                  |                                                            |                            | 
+| ------ | ---------------- |------------------------------------------------------------|----------------------------|
+| 08:30  | Doors Open            |                                                            |                            |
+| 09:00  | Game 1                | Mission R (Terraform, Sweeping Engagement)                 | Terrain&#160;Layout&#160;5 |
+| 12:00  | Lunch break           |                                                            |                            |
+| 13:00  | Game 2                | Mission G (Purge the Foe, Hammer and Anvil)                | Terrain&#160;Layout&#160;7 |
+| 16:00  | Break                 |                                                            |                            |
+| 16:30  | Game 3                | Mission L (Take and Hold, Search and Destroy)              | Terrain&#160;Layout&#160;6 |
+| 19:45  |  Ranking announcement |                                                            |                            |
 
 
 ### Terrain
