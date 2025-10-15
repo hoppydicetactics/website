@@ -33,15 +33,15 @@ Zugelassen sind alle Einheiten, die im aktuellen [Munitorum Field Manual](https:
 
 ### Ablauf
 
-|        |                  | 
-| ------ | ---------------- |
-| 08:30  | Türöffnung       |
-| 09:00  | Spiel 1          |
-| 12:00  | Mittagspause     |
-| 13:00  | Spiel 2          |
-| 16:00  | Pause            |
-| 16:30  | Spiel 3          |
-| 19:45  | Rangverkündigung |
+|        |                  |                                                            |                            | 
+| ------ | ---------------- |------------------------------------------------------------|----------------------------|
+| 08:30  | Türöffnung       |                                                            |                            |
+| 09:00  | Spiel 1          | Mission R (Terraform, Sweeping Engagement)                 | Terrain&#160;Layout&#160;5 |
+| 12:00  | Mittagspause     |                                                            |                            |
+| 13:00  | Spiel 2          | Mission G (Purge the Foe, Hammer and Anvil)                | Terrain&#160;Layout&#160;7 |
+| 16:00  | Pause            |                                                            |                            |
+| 16:30  | Spiel 3          | Mission L (Take and Hold, Search and Destroy)              | Terrain&#160;Layout&#160;6 |
+| 19:45  | Rangverkündigung |                                                            |                            |
 
 
 ### Terrain
