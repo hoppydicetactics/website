@@ -76,4 +76,4 @@ Auch dürfen keine spieltechnischen Vorteile für sich selbst daraus entstehen.
 
 ### Fragen
 
-Melde dich bei Fragen auf unserem [Discord](https://discord.gg/Vzq39FbuYt) oder via [Kontaktformular](/de/contact/).
+Melde dich bei Fragen auf unserem [Discord](https://discord.gg/Vzq39FbuYt) oder via {{< cloakemail address="FIXME" display="Mail" >}}.
