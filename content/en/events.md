@@ -77,4 +77,4 @@ They may not result in any technical advantages for themselves.
 
 ### Questions
 
-If you have any questions, please contact us on our [Discord](https://discord.gg/Vzq39FbuYt) or via [contact form](/en/contact/).
+If you have any questions, please contact us on our [Discord](https://discord.gg/Vzq39FbuYt) or via {{< cloakemail address="FIXME" display="email" >}}.
