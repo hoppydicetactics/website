@@ -2,7 +2,7 @@
 title: Erste Schritte in Warhammer 40,000
 type: post
 date: 2023-06-20
-lastmod: 2025-10-04
+lastmod: 2025-11-02
 showTableOfContents: true
 ---
 Du möchtest mit Warhammer 40,000 starten, bist aber unsicher, wie? Hier ein Leitfaden, um dich dabei zu unterstützen!
@@ -124,6 +124,7 @@ Die bisher veröffentlichten Codexes (mit Erscheinungsdatum):
 - [Codex: Grey Knights](https://www.warhammer.com/shop/codex-grey-knights-2025-eng) (9.8.2025)
 - [Codex Supplement: Black Templars](https://www.warhammer.com/shop/codex-supplement-black-templars-2025-eng) (9.8.2025)
 - [Codex: Leagues of Votann](https://www.warhammer.com/en-GB/shop/codex-leagues-of-votann-2025-eng) (23.8.2025)
+- [Codex: Drukhari](https://www.warhammer.com/en-GB/shop/codex-drukhari-hb-2025-eng) (11.10.2025)
 
 Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
 
