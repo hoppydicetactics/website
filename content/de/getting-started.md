@@ -126,10 +126,6 @@ Die bisher veröffentlichten Codexes (mit Erscheinungsdatum):
 - [Codex: Leagues of Votann](https://www.warhammer.com/en-GB/shop/codex-leagues-of-votann-2025-eng) (23.8.2025)
 - [Codex: Drukhari](https://www.warhammer.com/en-GB/shop/codex-drukhari-hb-2025-eng) (11.10.2025)
 
-Am 27. März 2025 [informierte Games Workshop darüber, welches die kommenden Codexes sein werden](https://www.warhammer-community.com/en-gb/articles/hx9biq5l/these-epic-new-space-wolves-will-write-sagas-worthy-of-the-allfather/):
-
-{{< figure src="/images/getting-started/codex-roadmap.webp" alt="Codex Roadmap" caption="Credit: Games Workshop" >}}
-
 
 ## Weitere Quellen
 
