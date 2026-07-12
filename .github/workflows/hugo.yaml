@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
-      HUGO_VERSION: 0.151.2
+      HUGO_VERSION: 0.164.0
     steps:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -35,8 +35,11 @@ jobs:
         uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7
 
       - name: Replace email address placeholder
+        env:
+          HUGO_OWNER_EMAIL: ${{ secrets.HUGO_OWNER_EMAIL }}
         run: |
-          sed -i "s/FIXME/$EMAIL_ADDRESS/g" content/{de,en}/events.md
+          sed -i "s/REPLACEME_EMAIL/$EMAIL_ADDRESS/g" content/{de,en}/events.md
+          sed -i "s/REPLACEME_OWNER_EMAIL/$HUGO_OWNER_EMAIL/g" layouts/shortcodes/legally-ok.html
 
       - name: Setup Pages
         id: pages
@@ -46,6 +49,9 @@ jobs:
         env:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+          HUGO_OWNER_CITY: ${{ secrets.HUGO_OWNER_CITY }}
+          HUGO_OWNER_PHONE: ${{ secrets.HUGO_OWNER_PHONE }}
+          HUGO_OWNER_STREET: ${{ secrets.HUGO_OWNER_STREET }}
         run: |
           hugo \
             --gc \
